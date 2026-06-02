@@ -1,4 +1,4 @@
 # goswamigrv-demo
-firdt ever repo
+first ever repo
 <br>
 author - grv
